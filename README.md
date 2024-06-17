@@ -11,7 +11,7 @@ Luke</a></h1>
 
 - :newspaper: I am currently looking for job in the Machine Learning, AI, or data science fields!
 
-- :sun_behind_rain_cloud: I do work with machine learning for climate and weather prediction through <a href="https://hutchresear.ch" target="blank">HutchResearch</a>. Check out our work!
+- :sun_behind_rain_cloud: I do work with deep learning for climate and weather prediction through <a href="https://hutchresear.ch" target="blank">HutchResearch</a>. Check out our work!
 
 - 💬 Reach out & say Hi!
 
