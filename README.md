@@ -1,20 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://lukedojan.com" target="blank">
+Luke</a></h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/Lukeyfish=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/Lukeyfish.png">
+</a>
 
-<!--
-**Lukeyfish/Lukeyfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚩 I use He/Him pronouns and am extremely passionate about technology and data!
+  
+- :apple: I recently majored in Data Science at Western Washington University in Bellingham, WA, USA</a>
 
+- :newspaper: I am currently looking for job in the Machine Learning, AI, or data science fields!
 
+- :sun_behind_rain_cloud: I do work with machine learning for climate and weather prediction through <a href="https://hutchresear.ch" target="blank">HutchResearch</a>. Check out our work!
 
-Here are some ideas to get you started:
+- 💬 Reach out & say Hi!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 - 📫 How to reach me: **<a href="mailto:luke@lukedojan.com">luke@lukedojan.com</a>** or visit my website **<a href="https://lukedojan.com" target="_blank">lukedojan.com</a>**.
