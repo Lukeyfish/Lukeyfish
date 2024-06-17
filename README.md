@@ -15,4 +15,4 @@ Luke</a></h1>
 
 - 💬 Reach out & say Hi!
 
-- 📫 - 📫 How to reach me: **<a href="mailto:luke@lukedojan.com">luke@lukedojan.com</a>** or visit my website **<a href="https://lukedojan.com" target="_blank">lukedojan.com</a>**.
+- 📫 How to reach me: **<a href="mailto:luke@lukedojan.com">luke@lukedojan.com</a>** or visit my website **<a href="https://lukedojan.com" target="_blank">lukedojan.com</a>**.
