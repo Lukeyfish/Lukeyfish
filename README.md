@@ -5,7 +5,7 @@ Luke</a></h1>
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/Lukeyfish.png">
 </a>
 
-- 🚩 I use He/Him pronouns and am extremely passionate about technology and data!
+- 🚩 I use He/Him pronouns and am very passionate about technology and data!
   
 - :apple: I recently majored in Data Science at Western Washington University in Bellingham, WA, USA</a>
 
