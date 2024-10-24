@@ -9,7 +9,7 @@ Luke</a></h1>
   
 - :apple: I recently majored in Data Science at Western Washington University in Bellingham, WA, USA</a>
 
-- :newspaper: I am currently looking for job in the Machine Learning, AI, or data science fields!
+- :newspaper: I am currently looking for a job in  Machine Learning, AI, or data science fields!
 
 - :sun_behind_rain_cloud: I do work with deep learning for climate and weather prediction through <a href="https://hutchresear.ch" target="blank">HutchResearch</a>. Check out our work!
 
