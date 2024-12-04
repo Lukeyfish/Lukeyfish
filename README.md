@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm <a href="https://lukedojan.com" target="blank">
-Luke</a></h1>
+<h1 align="center">
+  <a href="https://lukedojan.com" target="blank">
+    <img style="vertical-align: middle; height: 1em;" alt="GIF" src="https://lukedojan.com/images/fish.gif">
+  </a>
+  Hi 👋, I'm 
+  <a href="https://lukedojan.com" target="blank">Luke</a>
+  <a href="https://lukedojan.com" target="blank">
+    <img style="vertical-align: middle; height: 1em;" alt="GIF" src="https://lukedojan.com/images/fish.gif">
+  </a>
+  
+</h1>
+
+
+
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/Lukeyfish.png">
@@ -16,3 +29,4 @@ Luke</a></h1>
 - 💬 Reach out & say Hi!
 
 - 📫 How to reach me: **<a href="mailto:lukedojan@gmail.com">lukedojan@gmail.com</a>** or visit my website **<a href="https://lukedojan.com" target="_blank">lukedojan.com</a>**.
+
