@@ -20,7 +20,7 @@
 
 - 🚩 I use He/Him pronouns and am passionate about technology and data!
   
-- :apple: I am working on getting my MS in data science from UCSD</a>
+- :apple: I am currently in school working on my MS in data science from UCSD!</a>
 
 - :newspaper: I am currently looking for a job in Machine Learning, AI, or data science fields!
 
