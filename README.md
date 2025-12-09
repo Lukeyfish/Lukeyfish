@@ -18,13 +18,13 @@
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/Lukeyfish.png">
 </a>
 
-- 🚩 I use He/Him pronouns and am very passionate about technology and data!
+- 🚩 I use He/Him pronouns and am passionate about technology and data!
   
-- :apple: I recently majored in Data Science at Western Washington University in Bellingham, WA, USA</a>
+- :apple: I am working on getting my MS in data science from UCSD</a>
 
-- :newspaper: I am currently looking for a job in  Machine Learning, AI, or data science fields!
+- :newspaper: I am currently looking for a job in Machine Learning, AI, or data science fields!
 
-- :sun_behind_rain_cloud: I do work with deep learning for climate and weather prediction through <a href="https://hutchresear.ch" target="blank">HutchResearch</a>. Check out our work!
+- :sun_behind_rain_cloud: I've done deep learning research for climate and weather prediction through <a href="https://hutchresear.ch" target="blank">HutchResearch</a>. 
 
 - 💬 Reach out & say Hi!
 
